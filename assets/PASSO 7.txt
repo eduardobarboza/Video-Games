@@ -1,0 +1,46 @@
+Xbox
+
+Especificações Técnicas
+
+Confira a seguir as especificações técnicas do Xbox de 2001
+
+Processador: Intel Pentium 3 - 733 MHz
+
+GPU: nVidia NV2A - 233 MHz
+
+RAM: 64 MB DDR SDRAM - 200 MHz
+
+Armazenamento: HD 8GB - 5400 RPM
+
+
+Nintendo 
+
+Especificações Técnicas
+
+Confira a seguir as especificações técnicas do NES, lançado em 1983
+
+Processador: Ricoh 2A03 - Processador 8-bit
+
+GPU: 52 Cores - 256 x 240
+
+RAM: 2KB RAM - Memória
+
+Armazenamento: Cartucho - Proprietário
+
+
+PlayStation 
+
+Especificações Técnicas
+
+Confira a seguir as especificações técnicas do PlayStation, lançado em 1994
+
+Processador: Sony CXD8530BQ - 33.8688 MHz
+
+GPU: Sony CXD8514Q - 1MB VRAM
+
+RAM: 2 MB EDO DRAM - 33 MHz
+
+Armazenamento: Drive de CD-ROM - 660 MB / disco
+
+
+
